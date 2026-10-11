@@ -1,0 +1,8 @@
+path: C:\Users\marco\Desktop\hackathon\hack-ucf-2026\computer vision\images
+train: train/images
+val: eval/images
+test: test/images
+nc: 2
+names:
+  0: empty_spot
+  1: occupied_spot
